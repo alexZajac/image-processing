@@ -1,0 +1,14 @@
+C:\Users\Alexandre Zajac\Desktop\Programmation\Prog S4\TD 1\TD 1\bin\Debug\TD 1.exe.config
+C:\Users\Alexandre Zajac\Desktop\Programmation\Prog S4\TD 1\TD 1\bin\Debug\TD 1.exe
+C:\Users\Alexandre Zajac\Desktop\Programmation\Prog S4\TD 1\TD 1\bin\Debug\TD 1.pdb
+C:\Users\Alexandre Zajac\Desktop\Programmation\Prog S4\TD 1\TD 1\obj\Debug\TD 1.csprojResolveAssemblyReference.cache
+C:\Users\Alexandre Zajac\Desktop\Programmation\Prog S4\TD 1\TD 1\obj\Debug\TD 1.csproj.CoreCompileInputs.cache
+C:\Users\Alexandre Zajac\Desktop\Programmation\Prog S4\TD 1\TD 1\obj\Debug\TD 1.exe
+C:\Users\Alexandre Zajac\Desktop\Programmation\Prog S4\TD 1\TD 1\obj\Debug\TD 1.pdb
+C:\Users\Alexandre Zajac\Desktop\Programmation\Prog S4\Projet Info - ZAJAC Alexandre\TD 1\obj\Debug\TD 1.csprojResolveAssemblyReference.cache
+C:\Users\Alexandre Zajac\Desktop\Programmation\Prog S4\Projet Info - ZAJAC Alexandre\TD 1\obj\Debug\TD 1.csproj.CoreCompileInputs.cache
+C:\Users\Alexandre Zajac\Desktop\Programmation\Prog S4\Projet Info - ZAJAC Alexandre\TD 1\obj\Debug\TD 1.exe
+C:\Users\Alexandre Zajac\Desktop\Programmation\Prog S4\Projet Info - ZAJAC Alexandre\TD 1\obj\Debug\TD 1.pdb
+C:\Users\Alexandre Zajac\Desktop\Programmation\Prog S4\Projet Info - ZAJAC Alexandre\TD 1\bin\Debug\TD 1.exe.config
+C:\Users\Alexandre Zajac\Desktop\Programmation\Prog S4\Projet Info - ZAJAC Alexandre\TD 1\bin\Debug\TD 1.exe
+C:\Users\Alexandre Zajac\Desktop\Programmation\Prog S4\Projet Info - ZAJAC Alexandre\TD 1\bin\Debug\TD 1.pdb

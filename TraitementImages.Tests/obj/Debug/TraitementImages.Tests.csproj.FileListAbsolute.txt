@@ -1,0 +1,19 @@
+C:\Users\Alexandre Zajac\Desktop\Programmation\Prog S4\Projet Info - ZAJAC Alexandre\TraitementImages.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Alexandre Zajac\Desktop\Programmation\Prog S4\Projet Info - ZAJAC Alexandre\TraitementImages.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Alexandre Zajac\Desktop\Programmation\Prog S4\Projet Info - ZAJAC Alexandre\TraitementImages.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Alexandre Zajac\Desktop\Programmation\Prog S4\Projet Info - ZAJAC Alexandre\TraitementImages.Tests\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Alexandre Zajac\Desktop\Programmation\Prog S4\Projet Info - ZAJAC Alexandre\TraitementImages.Tests\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Alexandre Zajac\Desktop\Programmation\Prog S4\Projet Info - ZAJAC Alexandre\TraitementImages.Tests\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Alexandre Zajac\Desktop\Programmation\Prog S4\Projet Info - ZAJAC Alexandre\TraitementImages.Tests\bin\Debug\TraitementImages.Tests.dll
+C:\Users\Alexandre Zajac\Desktop\Programmation\Prog S4\Projet Info - ZAJAC Alexandre\TraitementImages.Tests\bin\Debug\TraitementImages.Tests.pdb
+C:\Users\Alexandre Zajac\Desktop\Programmation\Prog S4\Projet Info - ZAJAC Alexandre\TraitementImages.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Alexandre Zajac\Desktop\Programmation\Prog S4\Projet Info - ZAJAC Alexandre\TraitementImages.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Alexandre Zajac\Desktop\Programmation\Prog S4\Projet Info - ZAJAC Alexandre\TraitementImages.Tests\bin\Debug\TD 1.exe
+C:\Users\Alexandre Zajac\Desktop\Programmation\Prog S4\Projet Info - ZAJAC Alexandre\TraitementImages.Tests\bin\Debug\TD 1.pdb
+C:\Users\Alexandre Zajac\Desktop\Programmation\Prog S4\Projet Info - ZAJAC Alexandre\TraitementImages.Tests\bin\Debug\TD 1.exe.config
+C:\Users\Alexandre Zajac\Desktop\Programmation\Prog S4\Projet Info - ZAJAC Alexandre\TraitementImages.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Alexandre Zajac\Desktop\Programmation\Prog S4\Projet Info - ZAJAC Alexandre\TraitementImages.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Alexandre Zajac\Desktop\Programmation\Prog S4\Projet Info - ZAJAC Alexandre\TraitementImages.Tests\obj\Debug\TraitementImages.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Alexandre Zajac\Desktop\Programmation\Prog S4\Projet Info - ZAJAC Alexandre\TraitementImages.Tests\obj\Debug\TraitementImages.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Alexandre Zajac\Desktop\Programmation\Prog S4\Projet Info - ZAJAC Alexandre\TraitementImages.Tests\obj\Debug\TraitementImages.Tests.dll
+C:\Users\Alexandre Zajac\Desktop\Programmation\Prog S4\Projet Info - ZAJAC Alexandre\TraitementImages.Tests\obj\Debug\TraitementImages.Tests.pdb
